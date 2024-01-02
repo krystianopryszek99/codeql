@@ -1,7 +1,7 @@
 const person = { 
     name: 'Chris',
     age: 20,
-    hobbies: ['games', 'cars', 'coding'],
+    hobbies: ['games', 'cars', 'coding', 'drawing'],
 };
 
 for (let key in person) { 
